@@ -1,0 +1,78 @@
+{
+  "header": {
+    "label": "Музыка",
+    "manage": "Управление музыкой",
+    "logreg": "Войти / Регистрация",
+    "logout": "Выйти",
+    "lang": "Выбери язык"
+  },
+  "appauth": {
+    "label": "Ваш аккаунт",
+    "login": "Войти",
+    "register": "Регистрация"
+  },
+  "login_form": {
+    "email": "Эл. почта",
+    "email_placeholder": "Введите эл. почту",
+    "password": "Пароль",
+    "password_placeholder": "Введите пароль",
+    "submit": "Войти"
+  },
+  "register_form": {
+    "name": "Имя",
+    "name_placeholder": "Введите Имя",
+    "email": "Эл. почта",
+    "email_placeholder": "Введите Эл. почту",
+    "age": "Возраст",
+    "age_placeholder": "Введите возраст",
+    "password": "Пароль",
+    "password_placeholder": "Укажите Пароль",
+    "confirm_password": "Подтвердите Пароль",
+    "confirm_password_placeholder": "Подтвердите Пароль",
+    "country": "Страна",
+    "country_values": {
+      "usa": "США",
+      "mexico": "Мексика",
+      "germany": "Германия",
+      "antarctica": "Антарктика"
+    },
+    "role": "Выберите вашу роль",
+    "role_options": {
+      "listener": "Слушатель",
+      "artist": "Музыкант"
+    },
+    "submit": "Регистрация"
+  },
+  "home": {
+    "listen": "Слушай свою музыку!",
+    "songs": "Песни"
+  },
+  "song": {
+    "comment_count": "Нет комментариев | {count} комментарий | {count} комментария | {count} комментариев",
+    "comment_placeholder": "Твой комментарий здесь...",
+    "submit": "Отправить",
+    "options": {
+      "last": "Новый",
+      "old": "Старый"
+    }
+  },
+  "manage": {
+    "my_songs": "Мои Песни"
+  },
+  "upload": {
+    "label": "Загрузка",
+    "drop_files": "Перенеси сюда свои файлы"
+  },
+  "app_song": {
+    "song": "Название Песни",
+    "song_placeholder": "Введите название песни",
+    "genre": "Жанр",
+    "genre_placeholder": "Введите жанр",
+    "submit": "Подтвердить",
+    "back": "Назад"
+  },
+  "register": {
+    "accept": "Я принимаю Музыкальные {0}",
+    "tos": "Условия предоставления услуг"
+  }
+}

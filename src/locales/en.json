@@ -1,0 +1,78 @@
+{
+  "header": {
+    "label": "Music",
+    "manage": "Manage",
+    "logreg": "Login / Register",
+    "logout": "Logout",
+    "lang": "Choose language"
+  },
+  "appauth": {
+    "label": "Your Account",
+    "login": "Login",
+    "register": "Register"
+  },
+  "register_form": {
+    "name": "Name",
+    "name_placeholder": "Enter Name",
+    "email": "Email",
+    "email_placeholder": "Enter Email",
+    "age": "Age",
+    "age_placeholder": "Enter Age",
+    "password": "Password",
+    "password_placeholder": "Enter Password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_placeholder": "Confirm Password",
+    "country": "Country",
+    "country_values": {
+      "usa": "USA",
+      "mexico": "Mexico",
+      "germany": "Germany",
+      "antarctica": "Antarctica"
+    },
+    "role": "Choose your role",
+    "role_options": {
+      "listener": "Listener",
+      "artist": "Artist"
+    },
+    "submit": "Register"
+  },
+  "login_form": {
+    "email": "Email",
+    "email_placeholder": "Enter Email",
+    "password": "Password",
+    "password_placeholder": "Enter Password",
+    "submit": "Submit"
+  },
+  "home": {
+    "listen": "Listen to Great Music!",
+    "songs": "Songs"
+  },
+  "song": {
+    "comment_count": "No comments | 1 comment | {count} comments",
+    "comment_placeholder": "Your comment here...",
+    "submit": "Submit",
+    "options": {
+      "last": "Lastest",
+      "old": "Oldest"
+    }
+  },
+  "manage": {
+    "my_songs": "My Songs"
+  },
+  "upload": {
+    "label": "Upload",
+    "drop_files": "Drop your files here"
+  },
+  "app_song": {
+    "song": "Song Title",
+    "song_placeholder": "Enter Song Title",
+    "genre": "Genre",
+    "genre_placeholder": "Enter Genre",
+    "submit": "Submit",
+    "back": "Go Back"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Services"
+  }
+}
